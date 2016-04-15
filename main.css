@@ -1,0 +1,10 @@
+body{  background-color: #f2f4f5;  margin: 0;  padding: 0;  position:relative;}
+
+.page{background-image: url("") ; background-size: 100%; background-repeat: no-repeat;float:left; }
+#container{position: absolute;}
+.circle {  width: 18px;  height: 18px;  background: #BCBCBC;float:left;
+    -moz-border-radius: 9px;
+    -webkit-border-radius: 9px;
+    border-radius: 9px;
+}
+#dot{position:fixed;float:left; top:500px;left:418px;}
