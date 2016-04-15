@@ -1,3 +1,5 @@
+![演示1](https://github.com/needspeedboy/adsAutoPlay/blob/master/show.png)
+
 # adsAutoPlay
 广告轮播移动版
 
