@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2016/4/14.
+ * Created by ROY(needspeedboy) on 2016/4/14.
  */
 var data = [1,2,3,4,5,6];
 var currIndex = 0;
