@@ -1,6 +1,6 @@
 ![演示1](https://github.com/needspeedboy/adsAutoPlay/blob/master/show.png)
 
-# adsAutoPlay
+
 广告轮播移动版
 最常见的手机上的各种轮播广告，这个版本是带触屏动画特效，默认会自动播放广告，间隔是4秒；
 
